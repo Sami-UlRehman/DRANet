@@ -1,0 +1,9 @@
+# Environment (as reported in the paper / used in 2021):
+#   Python 3, TensorFlow 1.6.0, Keras 2.2.0, OpenCV 3.4.2
+tensorflow==1.6.0
+keras==2.2.0
+opencv-python==3.4.2.17
+numpy==1.14.5
+scikit-image==0.14.0
+image-similarity-measures==0.3.5
+matplotlib==2.2.3
