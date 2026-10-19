@@ -75,6 +75,7 @@ Quantitative results:
 
 If you use this code for your research, please cite our paper.
 
+'''
 @inproceedings{DRANet2023,
 author = {Sami Ul Rehman and Ammar Hawbani and Xingfu Wang and Muhammad Hamza and Liang Zhao and Saeed H. Alsamhi and Majjed Al-Qatf},
 title = {{DRA-Net: densely residual attention based low-light image enhancement}},
@@ -89,3 +90,4 @@ year = {2023},
 doi = {10.1117/12.2680479},
 URL = {https://doi.org/10.1117/12.2680479}
 }
+'''
