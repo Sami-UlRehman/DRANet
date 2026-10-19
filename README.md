@@ -54,12 +54,6 @@ python train.py -d <data_root> -e 250 -b 16
 By default, the code saves the trained model in the "./saved_model/" folder.
 Please read the code to see other parameter settings.
 
-## Model
-
-- DenseResidualAttentionCBAMLABLOSSDRBadd250epoch21_357634psnr0_8453417ssim_model
-  (trained on the LOL dataset for 250 epochs; PSNR 21.3576, SSIM 0.845342 on
-  the LOL eval15 set; saved in the TensorFlow SavedModel format, i.e. a folder
-  containing saved_model.pb, variables/ and assets/)
 
 ## Results
 
