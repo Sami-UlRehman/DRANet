@@ -1,8 +1,7 @@
 # DRA-Net: Densely Residual Attention based Low-light Image Enhancement
 
-Code for our 2021 paper on low-light image enhancement. The network uses dense
-residual blocks (DRB) with CBAM attention modules and is trained with a combined
-MAE + SSIM + LAB loss on the LOL dataset.
+Official code for the paper "DRA-Net: densely residual attention based
+low-light image enhancement" (ICGIP 2023, SPIE).
 
 ## Architecture
 
