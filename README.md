@@ -83,6 +83,18 @@ If you use this code for your research, please cite our paper.
   booktitle={British Machine Vision Conference (BMVC)},
   year={2018}
 }
+
+@inproceedings{DRANet2023,
+  title = {{DRA-Net: densely residual attention based low-light image enhancement}},
+  author = {Sami Ul Rehman and Ammar Hawbani and Xingfu Wang and Muhammad Hamza and Liang Zhao and Saeed H. Alsamhi and Majjed Al-Qatf},
+  booktitle = {Fourteenth International Conference on Graphics and Image Processing (ICGIP 2022)},
+  organization = {International Society for Optics and Photonics},
+  volume = {12705},
+  publisher = {SPIE},
+  pages = {1270522},
+  year = {2023},
+  doi = {10.1117/12.2680479},
+}
  ```
 
 
