@@ -6,7 +6,7 @@ MAE + SSIM + LAB loss on the LOL dataset.
 
 ## Architecture
 
-![architecture](assets/architecture.png)
+![architecture](assets/Architecture.png)
 
 ## Requirements
 
