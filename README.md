@@ -1,4 +1,4 @@
-# Dense Residual Attention Network for Low-Light Image Enhancement
+# DRA-Net: Densely Residual Attention based Low-light Image Enhancement
 
 Code for our 2021 paper on low-light image enhancement. The network uses dense
 residual blocks (DRB) with CBAM attention modules and is trained with a combined
@@ -77,12 +77,6 @@ If you use this code for your research, please cite our paper.
 
 
  ```
- @inproceedings{Lv2018MBLLEN,
-  title={MBLLEN: Low-light Image/Video Enhancement Using CNNs},
-  author={Feifan Lv, Feng Lu, Jianhua Wu, Chongsoon Lim},
-  booktitle={British Machine Vision Conference (BMVC)},
-  year={2018}
-}
 
 @inproceedings{DRANet2023,
   title = {{DRA-Net: densely residual attention based low-light image enhancement}},
